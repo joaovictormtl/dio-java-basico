@@ -1,0 +1,69 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.joao.primeirasemana.AboutMe",
+            "projectName": "meu-primeiro-projeto-java_34717cdf",
+            "args":[
+                "Joao",
+                "Melo",
+                "22",
+                "1.77"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Entrada",
+            "request": "launch",
+            "mainClass": "edu.joao.primeirasemana.Entrada",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        },
+        {
+            "type": "java",
+            "name": "Metodos",
+            "request": "launch",
+            "mainClass": "edu.joao.primeirasemana.Metodos",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.joao.primeirasemana.MinhaClasse",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "edu.joao.primeirasemana.Operadores",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "edu.joao.primeirasemana.TiposVariaveis",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.joao.primeirasemana.Usuario",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        }
+    ]
+}
