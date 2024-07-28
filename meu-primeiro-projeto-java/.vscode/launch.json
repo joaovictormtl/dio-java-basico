@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "edu.joao.segundasemana.ExemploBreakContinue",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        },
+        {
+            "type": "java",
             "name": "ExemploFor",
             "request": "launch",
             "mainClass": "edu.joao.segundasemana.ExemploFor",
