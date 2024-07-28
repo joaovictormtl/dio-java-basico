@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "edu.joao.segundasemana.CaixaEletronico",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -16,7 +23,7 @@
             "request": "launch",
             "mainClass": "edu.joao.primeirasemana.AboutMe",
             "projectName": "meu-primeiro-projeto-java_34717cdf",
-            "args":[
+            "args": [
                 "Joao",
                 "Melo",
                 "22",
