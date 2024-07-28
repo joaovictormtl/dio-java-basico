@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "edu.joao.segundasemana.ResultadoEscolar",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        },
+        {
+            "type": "java",
             "name": "CaixaEletronico",
             "request": "launch",
             "mainClass": "edu.joao.segundasemana.CaixaEletronico",
