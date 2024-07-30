@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "edu.joao.segundasemana.FormatadorCepExemplo",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        },
+        {
+            "type": "java",
             "name": "ExemploExcecao",
             "request": "launch",
             "mainClass": "edu.joao.segundasemana.ExemploExcecao",
