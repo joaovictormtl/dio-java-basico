@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalcularMedias",
+            "request": "launch",
+            "mainClass": "edu.joao.segundasemana.CalcularMedias",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        },
+        {
+            "type": "java",
             "name": "FormatadorCepExemplo",
             "request": "launch",
             "mainClass": "edu.joao.segundasemana.FormatadorCepExemplo",
