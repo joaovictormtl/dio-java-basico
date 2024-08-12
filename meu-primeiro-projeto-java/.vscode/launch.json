@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CarrinhoDeCompras",
+            "request": "launch",
+            "mainClass": "edu.joao.terceirasemana.CarrinhoDeCompras",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        },
+        {
+            "type": "java",
+            "name": "ListaTarefas",
+            "request": "launch",
+            "mainClass": "edu.joao.terceirasemana.ListaTarefas",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        },
+        {
+            "type": "java",
             "name": "CalcularMedias",
             "request": "launch",
             "mainClass": "edu.joao.segundasemana.CalcularMedias",
