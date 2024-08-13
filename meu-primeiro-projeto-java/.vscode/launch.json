@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OrdenacaoPessoas",
+            "request": "launch",
+            "mainClass": "edu.joao.terceirasemana.OrdenacaoPessoas",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        },
+        {
+            "type": "java",
+            "name": "CatalogoLivros",
+            "request": "launch",
+            "mainClass": "edu.joao.terceirasemana.CatalogoLivros",
+            "projectName": "meu-primeiro-projeto-java_34717cdf"
+        },
+        {
+            "type": "java",
             "name": "CarrinhoDeCompras",
             "request": "launch",
             "mainClass": "edu.joao.terceirasemana.CarrinhoDeCompras",
